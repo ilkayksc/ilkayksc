@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer From Turkey</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,C# .Net / .Net Core**
 - 💬 Ask me about **Angular,Python**
 - 📫 How to reach me **ilkayksc@gmail.com**
 
