@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **React,C# .Net / .Net Core**
-- 💬 Ask me about **Angular,Python**
+- 💬 Ask me about **Angular,C#**
 - 📫 How to reach me **ilkayksc@gmail.com**
 
 <p align="left">
